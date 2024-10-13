@@ -1,13 +1,13 @@
-MultiPar
+MultiPar  -  
 https://github.com/Yutaka-Sawada/MultiPar
 
-sherpa
+sherpa  -  
 https://github.com/OneCDOnly/sherpa
 
-BDInfo
+BDInfo  -  
 https://github.com/UniqProject/BDInfo
 
-ExifToolGui
+ExifToolGui  -  
 https://github.com/FrankBijnen/ExifToolGui
 
 
