@@ -1,28 +1,28 @@
 **MultiPar**  - 
 https://github.com/Yutaka-Sawada/MultiPar
 
-sherpa  - 
+**sherpa**  - 
 https://github.com/OneCDOnly/sherpa
 
-BDInfo  - 
+**BDInfo**  - 
 https://github.com/UniqProject/BDInfo
 
-ExifToolGui  - 
+**ExifToolGui**  - 
 https://github.com/FrankBijnen/ExifToolGui
 
-nzbrefresh  - 
+**nzbrefresh**  - 
 https://github.com/Tensai75/nzbrefresh
 
-nxg-upper  - 
+**nxg-upper**  - 
 https://github.com/Tensai75/nxg-upper
 
-Nyuu  - 
+**Nyuu**  - 
 https://github.com/animetosho/Nyuu
 
-ngPost  - 
+**ngPost**  - 
 https://github.com/mbruel/ngPost
 
-staxrip  - 
+**staxrip**  - 
 https://github.com/staxrip/staxrip
 
 
