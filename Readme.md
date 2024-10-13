@@ -10,6 +10,19 @@ https://github.com/UniqProject/BDInfo
 ExifToolGui  - 
 https://github.com/FrankBijnen/ExifToolGui
 
+nzbrefresh  - 
+https://github.com/Tensai75/nzbrefresh
+
+nxg-upper  - 
+https://github.com/Tensai75/nxg-upper
+
+Nyuu  - 
+https://github.com/animetosho/Nyuu
+
+ngPost  - 
+https://github.com/mbruel/ngPost
+
+
 
 
 
