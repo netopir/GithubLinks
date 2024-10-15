@@ -43,6 +43,10 @@ https://github.com/staxrip/staxrip
 
 ---
 
+**GenP**  - 
+https://www.reddit.com/r/GenP/wiki/redditgenpguides/#wiki_.2620.FE0F_guide_.232_-_dummy_guide_for_first_timers_genp_.28cc_.2B_genp.29
+
+---
 
 
 
