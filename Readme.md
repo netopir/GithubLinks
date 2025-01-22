@@ -58,6 +58,18 @@ https://github.com/myusefulrepo/Tips
 
 ---
 
+****  - 
+https://www.reddit.com/r/usenet/wiki/indexers/
 
 
+---
 
+**Nero's Black Book**  - 
+https://www.nerosbb.com/
+
+---
+
+**SB-Innovationk**  - 
+https://www.sb-innovation.de/forumdisplay.php?232-Non-BT-P2P-Talk
+
+---
