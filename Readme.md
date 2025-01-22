@@ -58,9 +58,8 @@ https://github.com/myusefulrepo/Tips
 
 ---
 
-****  - 
+**reddit - r/usenet**  - 
 https://www.reddit.com/r/usenet/wiki/indexers/
-
 
 ---
 
