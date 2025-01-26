@@ -72,3 +72,8 @@ https://www.nerosbb.com/
 https://www.sb-innovation.de/forumdisplay.php?232-Non-BT-P2P-Talk
 
 ---
+
+**VueTorrent**  - 
+https://github.com/VueTorrent/VueTorrent
+
+---
