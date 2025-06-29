@@ -73,6 +73,10 @@ https://www.sb-innovation.de/forumdisplay.php?232-Non-BT-P2P-Talk
 
 ---
 
+**Sublime Text Crack**  - 
+https://github.com/Hazuki-san/ST-collections/tree/main
+
+---
 **VueTorrent**  - 
 https://github.com/VueTorrent/VueTorrent
 
