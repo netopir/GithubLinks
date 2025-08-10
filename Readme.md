@@ -33,6 +33,21 @@ https://github.com/animetosho/Nyuu
 
 ---
 
+**NZBreX** - 
+https://github.com/go-while/NZBreX
+
+---
+
+**ngPost v5** - 
+https://github.com/disinclination/ngPost
+
+---
+
+**crossnzb** - 
+https://github.com/disinclination/crossnzb
+
+---
+
 **ngPost**  - 
 https://github.com/mbruel/ngPost
 
