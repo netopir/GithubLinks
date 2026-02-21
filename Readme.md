@@ -58,12 +58,12 @@ https://github.com/staxrip/staxrip :link:
 
 ---
 
-:computer: **GenP**  - 
+:unlock: **GenP**  - 
 https://gen.paramore.su :link:
 
 ---
 
-**qbittorrent-webui-cjratliff.com**  - 
+:satellite: **qbittorrent-webui-cjratliff.com**  - 
 https://github.com/Carve/qbittorrent-webui-cjratliff.com :link:
 
 ---
