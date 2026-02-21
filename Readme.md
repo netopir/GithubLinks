@@ -83,7 +83,7 @@ https://www.nerosbb.com/ :link:
 
 ---
 
-:newspaper: **SB-Innovationk**  - 
+:page_with_curl: **SB-Innovationk**  - 
 https://www.sb-innovation.de/forumdisplay.php?232-Non-BT-P2P-Talk :link:
 
 ---
@@ -92,7 +92,7 @@ https://www.sb-innovation.de/forumdisplay.php?232-Non-BT-P2P-Talk :link:
 https://github.com/Hazuki-san/ST-collections/tree/main :link:
 
 ---
-:page_with_curl: **VueTorrent**  - 
+:satellite: **VueTorrent**  - 
 https://github.com/VueTorrent/VueTorrent
 
 ---
