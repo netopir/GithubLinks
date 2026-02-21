@@ -3,7 +3,7 @@ https://github.com/Yutaka-Sawada/MultiPar :link:
 
 ---
 
-**sherpa**  - 
+:package: **sherpa**  - 
 https://github.com/OneCDOnly/sherpa :link:
 
 ---
@@ -78,7 +78,7 @@ https://www.reddit.com/r/usenet/wiki/indexers/ :link:
 
 ---
 
-:newspaper: **Nero's Black Book**  - 
+:ledger: **Nero's Black Book**  - 
 https://www.nerosbb.com/ :link:
 
 ---
