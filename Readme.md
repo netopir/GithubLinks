@@ -73,7 +73,7 @@ https://github.com/myusefulrepo/Tips :link:
 
 ---
 
-:newspaper: **reddit - r/usenet**  - 
+:label: **reddit - r/usenet**  - 
 https://www.reddit.com/r/usenet/wiki/indexers/ :link:
 
 ---
