@@ -68,7 +68,7 @@ https://github.com/Carve/qbittorrent-webui-cjratliff.com :link:
 
 ---
 
-:newspaper: **Tips for Powershell**  - 
+:bulb: **Tips for Powershell**  - 
 https://github.com/myusefulrepo/Tips :link:
 
 ---
@@ -92,7 +92,7 @@ https://www.sb-innovation.de/forumdisplay.php?232-Non-BT-P2P-Talk :link:
 https://github.com/Hazuki-san/ST-collections/tree/main :link:
 
 ---
-**VueTorrent**  - 
+:page_with_curl: **VueTorrent**  - 
 https://github.com/VueTorrent/VueTorrent
 
 ---
