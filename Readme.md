@@ -8,57 +8,57 @@ https://github.com/OneCDOnly/sherpa :link:
 
 ---
 
-**BDInfo**  - 
+:computer: **BDInfo**  - 
 https://github.com/UniqProject/BDInfo :link:
 
 ---
 
-**ExifToolGui**  - 
+:computer: **ExifToolGui**  - 
 https://github.com/FrankBijnen/ExifToolGui :link:
 
 ---
 
-**nzbrefresh**  - 
+:computer: **nzbrefresh**  - 
 https://github.com/Tensai75/nzbrefresh :link:
 
 ---
 
-**nxg-upper**  - 
+:computer: **nxg-upper**  - 
 https://github.com/Tensai75/nxg-upper :link:
 
 ---
 
-**Nyuu**  - 
+:computer: **Nyuu**  - 
 https://github.com/animetosho/Nyuu :link:
 
 ---
 
-**NZBreX** - 
+:computer: **NZBreX** - 
 https://github.com/go-while/NZBreX :link:
 
 ---
 
-**ngPost v5** - 
+:computer: **ngPost v5** - 
 https://github.com/disinclination/ngPost :link:
 
 ---
 
-**crossnzb** - 
+:computer: **crossnzb** - 
 https://github.com/disinclination/crossnzb :link:
 
 ---
 
-**ngPost**  - 
+:computer: **ngPost**  - 
 https://github.com/mbruel/ngPost :link:
 
 ---
 
-**staxrip**  - 
+:computer: **staxrip**  - 
 https://github.com/staxrip/staxrip :link:
 
 ---
 
-**GenP**  - 
+:computer: **GenP**  - 
 https://gen.paramore.su :link:
 
 ---
@@ -88,7 +88,7 @@ https://www.sb-innovation.de/forumdisplay.php?232-Non-BT-P2P-Talk :link:
 
 ---
 
-**Sublime Text Crack**  - 
+:computer: **Sublime Text Crack**  - 
 https://github.com/Hazuki-san/ST-collections/tree/main :link:
 
 ---
