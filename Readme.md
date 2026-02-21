@@ -68,22 +68,22 @@ https://github.com/Carve/qbittorrent-webui-cjratliff.com :link:
 
 ---
 
-**Tips for Powershell**  - 
+:newspaper: **Tips for Powershell**  - 
 https://github.com/myusefulrepo/Tips :link:
 
 ---
 
-**reddit - r/usenet**  - 
+:newspaper: **reddit - r/usenet**  - 
 https://www.reddit.com/r/usenet/wiki/indexers/ :link:
 
 ---
 
-**Nero's Black Book**  - 
+:newspaper: **Nero's Black Book**  - 
 https://www.nerosbb.com/ :link:
 
 ---
 
-**SB-Innovationk**  - 
+:newspaper: **SB-Innovationk**  - 
 https://www.sb-innovation.de/forumdisplay.php?232-Non-BT-P2P-Talk :link:
 
 ---
