@@ -38,6 +38,11 @@ https://github.com/go-while/NZBreX :link:
 
 ---
 
+:computer: **ngPost+ v5** - 
+https://github.com/Vladimir-TB/ngpost- :link:
+
+---
+
 :computer: **ngPost v5** - 
 https://github.com/disinclination/ngPost :link:
 
