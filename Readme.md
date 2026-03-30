@@ -33,6 +33,11 @@ https://github.com/animetosho/Nyuu :link:
 
 ---
 
+:computer: **Postie** - 
+https://github.com/javi11/postie :link:
+
+---
+
 :computer: **NZBreX** - 
 https://github.com/go-while/NZBreX :link:
 
